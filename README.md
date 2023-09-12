@@ -11,7 +11,7 @@ I enjoy bringing ideas to life in the digital world. With a blend of creativity 
 
 - **Database Management**: I'm proficient in working with SQL Server, ensuring data integrity, designing effective database schemas, and optimizing queries for performance.
 
-- **Bootstrap**: I utilize Bootstrap to streamline the development process and create visually appealing and consistent designs.
+- **Frameworks**: I utilize Bootstrap and Tailwind CSS to streamline the development process and create visually appealing and consistent designs.
 
 ## 🌱 Always Learning 📚
 
