@@ -22,7 +22,9 @@ Whether it's a new JavaScript framework or an emerging design principle, I enjoy
 
 Feel free to reach out if you'd like to collaborate, discuss web development, I would be delighted to connect with you! 🤝
 
-- LinkedIn: [nitin-prajapati1](https://www.linkedin.com/in/nitin-prajapati1/)
+
+- Portfolio: [Nitin-Prajapati](https://nitin-prajapati.vercel.app/)
+- LinkedIn:  [nitin-prajapati1](https://www.linkedin.com/in/nitin-prajapati1/)
 
 
 
