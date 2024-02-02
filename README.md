@@ -22,8 +22,28 @@ Whether it's a new JavaScript framework or an emerging design principle, I enjoy
 
 Feel free to reach out if you'd like to collaborate, discuss web development, I would be delighted to connect with you! 🤝
 
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitin-prajapati1/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=X)](https://twitter.com/NitinPr_01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-9cf?style=for-the-badge&logo=portfolio)](https://nitin-prajapati.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/nitin_prajapati15/)
 
-- Portfolio: [Nitin-Prajapati](https://nitin-prajapati.vercel.app/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Portfolio: [Nitin-Prajapati]()
 - LinkedIn:  [nitin-prajapati1](https://www.linkedin.com/in/nitin-prajapati1/)
 
 
