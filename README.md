@@ -33,21 +33,4 @@ Feel free to reach out if you'd like to collaborate, discuss web development, I 
 
 
 
-
-
-
-
-
-
-
-
-
-
-- Portfolio: [Nitin-Prajapati]()
-- LinkedIn:  [nitin-prajapati1](https://www.linkedin.com/in/nitin-prajapati1/)
-
-
-
-
-
  
